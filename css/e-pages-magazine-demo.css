@@ -1,0 +1,7 @@
+figure.mySingleMagazine a {display: block;}
+.magazineSlide button.circle-bg, .magazineSlide button.circle-border {
+    border-radius: 100%;
+    width: 1.5em;
+    height: 1.5em;
+    line-height: 1.7em;
+}
